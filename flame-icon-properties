@@ -1,0 +1,18 @@
+flame icon properties
+source: loading.io/icon
+
+Color Scheme: Inferno
+- #140b34
+- #84206b
+- #e55c30
+
+Background: #ffffff
+
+Speed: 0.8
+Size: 271
+Scale: 0.63
+
+Animation: Breathe
+
+Group Animate: Yes
+Transparent: Yes
