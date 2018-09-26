@@ -1,5 +1,5 @@
 # flame-audio
-This will be a single dynamic based web page that shows off content for streaming and downloading media files. 
+This will be a server based web page that shows off content for streaming and downloading media files.
 
 This website will allow users to: 
 - browse media files
