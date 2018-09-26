@@ -2,9 +2,9 @@
 This will be a single dynamic based web page that shows off content for streaming and downloading media files. 
 
 This website will allow users to: 
-  browse media files
-  browse and download sheet music documentation files
-  stream music and download music files
+- browse media files
+- browse and download sheet music documentation files
+- stream music and download music files
 
 Media files will be stored on the website and played using an HTML media player.
 Sheet Music will be stored as pdf files
